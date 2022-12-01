@@ -26,7 +26,7 @@ class Employee
   }
 }
 
-public class EmpClass
+public class Empclass
 {
 
   public static void main(String args[])
